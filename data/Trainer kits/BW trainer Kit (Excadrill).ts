@@ -5,6 +5,7 @@ const set: Set = {
 	id: "tk-bw-e",
 
 	name: {
+		de: "BW trainer Kit (Excadrill)",
 		en: "BW trainer Kit (Excadrill)",
 		fr: "BW Kit du dresseur (Minitaupe)",
 		es: "Kit de Entrenador BW (Excadrill)",

@@ -5,6 +5,7 @@ const set: Set = {
 	id: "tk-ex-p",
 
 	name: {
+		de: "EX trainer Kit 2 (Plusle)",
 		en: "EX trainer Kit 2 (Plusle)",
 		it: "EX trainer Kit (Plusle)",
 		fr: "EX Kit dresseur (Positi)",

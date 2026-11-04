@@ -5,6 +5,7 @@ const set: Set = {
 	id: "tk-xy-latia",
 
 	name: {
+		de: "XY trainer Kit (Latias)",
 		en: "XY trainer Kit (Latias)",
 		it: "XY trainer Kit (Latias)",
 		fr: "XY Kit du dresseur (Latias)",

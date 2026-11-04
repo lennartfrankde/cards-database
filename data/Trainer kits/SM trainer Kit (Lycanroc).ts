@@ -5,6 +5,7 @@ const set: Set = {
 	id: "tk-sm-l",
 
 	name: {
+		de: "SM trainer Kit (Lycanroc)",
 		en: "SM trainer Kit (Lycanroc)",
 		it: "Sole e Luna trainer Kit (Lycanroc)",
 		fr: "SM Kit du dresseur (Lougarox)",

@@ -5,6 +5,7 @@ const set: Set = {
 	id: "tk-xy-su",
 
 	name: {
+		de: "XY trainer Kit (Suicune)",
 		en: "XY trainer Kit (Suicune)",
 		it: "XY trainer Kit (Suicune)",
 		fr: "XY Kit du dresseur (Suicune)",

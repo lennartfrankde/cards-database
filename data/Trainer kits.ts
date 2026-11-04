@@ -3,6 +3,7 @@ import { Serie } from '../interfaces'
 const tk: Serie = {
 	id: "tk",
 	name: {
+		de: "Trainer kits",
 		en: "Trainer kits",
 		fr: "Kits du dresseur",
 		es: "Kits de Entrenador",

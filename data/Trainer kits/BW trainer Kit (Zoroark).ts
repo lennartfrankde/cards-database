@@ -5,6 +5,7 @@ const set: Set = {
 	id: "tk-bw-z",
 
 	name: {
+		de: "BW trainer Kit (Zoroark)",
 		en: "BW trainer Kit (Zoroark)",
 		fr: "BW Kit du dresseur (Zoroark)",
 		es: "Kit de Entrenador XY (Pikachu Enmascarada)",
